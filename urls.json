@@ -38,7 +38,8 @@
     },
     {
         "name":"Oscar Encabo Nieto",
-        "url":"https://github.com/Diokar017/Ejercicio1Despliegue.git"    
+        "url":"https://github.com/Diokar017/Ejercicio1Despliegue.git",
+        "docker":"https://hub.docker.com/repository/docker/oskaren/ejercicio2/general"
     },
     {
         "name": "Tomas Vaquerin",
